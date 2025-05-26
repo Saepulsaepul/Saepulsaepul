@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Saepul 👋
 
 <!--
 **Saepulsaepul/Saepulsaepul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![welcome](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTM2a3RlaHRnbG40dXdsb3F3MndsNHhyam94Y2Yyc2kwbHZ0dWZsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif)
+- 🔭 I’m currently working on: **Dental Clinic Management System** using Laravel & Livewire
+- 🌱 I’m currently learning: **Flutter**, and advanced [**Laravel 11**](https://laravel.com)
