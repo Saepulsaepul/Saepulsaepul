@@ -38,7 +38,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 
+##### Play Game
+<img src="https://raw.githubusercontent.com/Saepulsaepul/Saepulsaepul/output/snake.svg" alt="Snake animation" />
 
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saepulsaepul/Saepulsaepul/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saepulsaepul/Saepulsaepul/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Saepulsaepul/Saepulsaepul/output/pacman-contribution-graph.svg">
+</picture>
 
-![welcome](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTM2a3RlaHRnbG40dXdsb3F3MndsNHhyam94Y2Yyc2kwbHZ0dWZsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif)
+###
